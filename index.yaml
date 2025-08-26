@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  universal-chart:
+  - apiVersion: v2
+    appVersion: 2.8.4
+    created: "2025-08-26T14:16:07.929099653Z"
+    description: Nixys universal Helm chart for deploy your apps to Kubernetes
+    digest: a68bc12e92b181133ec087be5b0ea8ccada9544112412570bf793fa7ac92db0f
+    maintainers:
+    - email: r.andreev@nixys.io
+      name: Roman Andreev
+    - email: a.zhideev@nixys.io
+      name: Anton Zhideev
+    - email: evg.krsk@gmail.com
+      name: Evgenii Tereshkov
+    - email: s@lavr.me
+      name: Sergey Lavrinenko
+    - email: v.sokhan@nixys.io
+      name: Viktor Sokhan
+    - email: gromrx1@gmail.com
+      name: Ruslan Gainanov
+    - email: a.danielyan@nixys.io
+      name: Artem Danielyan
+    - email: r.emelyanov@nixys.io
+      name: Roman Emelyanov
+    name: universal-chart
+    urls:
+    - https://github.com/chpock/nxs-universal-chart/releases/download/universal-chart-2.8.4/universal-chart-2.8.4.tgz
+    version: 2.8.4
+generated: "2025-08-26T14:16:07.929159516Z"
