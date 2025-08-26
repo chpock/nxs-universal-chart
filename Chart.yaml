@@ -1,6 +1,6 @@
 apiVersion: v2
 description: Nixys universal Helm chart for deploy your apps to Kubernetes
-name: universal-chart
+name: nxs-universal-chart
 version: 2.8.4
 maintainers:
 - name: Roman Andreev
